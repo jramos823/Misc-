@@ -12,5 +12,3 @@ def crazycat():
     print("( o.o )") 
     print(" > ^ <") 
 
-
-crazycat()
